@@ -27,10 +27,8 @@ I am a self-taught web developer. My passion for software lies with dreaming up 
 ![Miro](https://img.shields.io/badge/Miro-F7C922?style=for-the-badge&logo=Miro&logoColor=050036)
 
 ### My GitHub Stats
-
-![Shriansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=hermit-github&count_private=true&show_icons=true&theme=radical)
-
-![Shriansh's Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hermit-github&theme=radical)
+| <a href="https://github.com/hermit-github/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=hermit-github&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Shubham's github stats" /></a> | <a href="https://github.com/hermit-github/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hermit-github&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 <!--
 **hermit-github/hermit-github** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
