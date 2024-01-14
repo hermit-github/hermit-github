@@ -27,7 +27,7 @@ I am a self-taught web developer. My passion for software lies with dreaming up 
 ![Miro](https://img.shields.io/badge/Miro-F7C922?style=for-the-badge&logo=Miro&logoColor=050036)
 
 ### My GitHub Stats
-| <a href="https://github.com/hermit-github/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=hermit-github&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Shubham's github stats" /></a> | <a href="https://github.com/hermit-github/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hermit-github&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/hermit-github/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=hermit-github&show_icons=true&include_all_commits=true&theme=ambient_gradient&hide_border=true" alt="Shubham's github stats" /></a> | <a href="https://github.com/hermit-github/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hermit-github&layout=compact&theme=ambient_gradient&hide_border=true" /></a> |
 | ------------- | ------------- |
 <!--
 **hermit-github/hermit-github** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
