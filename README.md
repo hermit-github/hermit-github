@@ -36,7 +36,8 @@ I am a self-taught web developer. My passion for software lies with dreaming up 
 
 
 ### My GitHub Stats
-| <a href="https://github.com/hermit-github"><img align="center" src="https://github-readme-stats-hermit.vercel.app/api?username=hermit-github&show_icons=true&include_all_commits=true&theme=ambient_gradient&hide_border=true" alt="Shubham's github stats" /></a> | <a href="https://github.com/hermit-github"><img align="center" src="https://github-readme-stats-hermit.vercel.app/api/top-langs/?username=hermit-github&layout=compact&theme=ambient_gradient&hide_border=true" /></a> |
+| <a href="https://github.com/hermit-github"><img align="center" src="https://github-readme-stats-hermit.vercel.app/api?username=hermit-github&show_icons=true&include_all_commits=true&theme=ambient_gradient&hide_border=true" alt="Shubham's github stats" /></a> | 
+| <a href="https://github.com/hermit-github"><img align="center" src="https://github-readme-stats-hermit.vercel.app/api/top-langs/?username=hermit-github&layout=compact&theme=ambient_gradient&hide_border=true" /></a> |
 | ------------- | ------------- |
 <!--
 **hermit-github/hermit-github** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
