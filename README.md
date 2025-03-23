@@ -66,9 +66,8 @@ I'm always up for expanding my knowledge and honing my skills. Right now, I’m 
 ## 📫 Get in Touch
 Feel free to reach out if you want to collaborate on exciting projects, share ideas, or discuss anything tech-related!
 
-- **Email:** [shubham@example.com](mailto:shubham@example.com)
-- **LinkedIn:** [Shubham on LinkedIn](https://www.linkedin.com/in/shubham)
-- **Twitter:** [@shubham_dev](https://twitter.com/shubham_dev)
+- **Email:** [shubhamhalder0@gmail.com](mailto:shubhamhalder0@gmail.com)
+- **LinkedIn:** [Shubham on LinkedIn](https://www.linkedin.com/in/shubham-halder-64a098112/)
 
 ---
 
